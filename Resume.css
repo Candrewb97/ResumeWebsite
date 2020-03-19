@@ -1,0 +1,97 @@
+html {
+	background-image: url(https://images.unsplash.com/photo-1491183672482-d0af0e44929d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    background-size:77%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: black;
+}
+h1 {
+	color: maroon;font: 40px;font-weight: lighter;
+	text-align: center;
+}
+h2 {
+	color: black;text-indent: 100px;
+}
+li, ol {
+	font-weight: bold;
+}
+#name{
+	text-align: right;
+	margin-right: 100px
+}
+table, th, td{
+	border: 1px solid black; background-color: white;
+}
+table{
+	background-color: maroon;padding: 5px;
+}
+th, td{
+	background-color: white;padding: 5px
+}
+#headshot {hover
+	position: absolute;top: 10%;right: 15%; transform: scale(1.25);
+}
+nav li{
+	display: inline;
+	font-weight: normal;
+	font-size: 25px;
+	margin-right:35px;
+	font-color:black;
+	text-transform: uppercase;
+}
+h1{
+	color: maroon;
+}
+li{
+	font-weight: bold;
+}
+nav{
+	position: fixed;
+	border: solid black;
+	background-color: maroon;
+	width: 800px;
+}
+nav a{
+	color: black;
+	text-decoration: none;
+}
+nav a:hover{
+	text-decoration: underline;
+	color: gray;
+	font-weight:bolder;
+}
+button{
+	border:2px solid black;
+	padding: 10px 25px;
+	display: block;
+	margin-bottom: 20px;
+}
+form{
+	border: solid black;
+	padding: 15px 15px;
+}
+form input{
+	display: block;
+	width: 300px;
+	border: dashed black;
+	margin: 15px;
+	padding: 10px;
+}
+#footerList {list-style-type: none;
+}
+.footerListItems{
+	display: inline;
+	text-align: center;
+	padding: 5px 20px;
+	text-decoration: none;
+}
+.footerListItems:hover{
+	text-decoration: underline;
+}
+hr{
+	border:solid black;
+}
+p{ font-weight:lighter;
+ }
+
+	
